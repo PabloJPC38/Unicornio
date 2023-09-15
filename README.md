@@ -58,14 +58,14 @@ El término fue acuñado por primera vez en 2013 por Aileen Lee, la fundadora de
 
 
   <h2>¿Cuáles son las empresas unicornio en Argentina?</h2>
-  La Argentina tiene, actualmente, 11 empresas consideradas unicornio, en su mayoría startups, y hay una compañía candidata a convertirse en la número 12. La tradición de empresas unicornio en Argentina fue iniciada hace más de diez años por Mercado Libre, Despegar, Globant y OLX. Estas colocaron la piedra angular y continúan como referentes de emprendedores y empresas de base tecnológica que recién comienzan.
+  La Argentina tiene, actualmente, 11 empresas consideradas unicornio, en su mayoría startups, y hay una compañía candidata a convertirse en la número 12. La tradición de empresas unicornio en Argentina fue iniciada hace más de diez años por Mercado Libre, Despegar, Globant y OLX. Siendo referentes de emprendedores y empresas de base tecnológica que recién comienzan.
 
 Al primer pelotón de unicornios se sumaron luego Auth0, Vercel, Aleph y Mural. Por último, Bitfarms, Ualá y TiendaNube pasaron a integrar este selecto club en agosto del 2021.
 <ul>
     <li>
       Mercado Libre    <img src="MercadoLibre.png" width="60" height="20">
       <p>
-        Nació en Argentina en 1999 y se convirtió en la plataforma de comercio electrónico más popular de todo Latinoamérica. La empresa fundada por Marcos Galperín superó en 2015 los 138 millones de usuarios registrados en América Latina.
+        Nació en Argentina en 1999 y fue una de las pocas startups "puntcom" que sobrevivio convirtiendose hoy en dia en la plataforma de comercio electrónico más popular de todo Latinoamérica. La empresa fundada por Marcos Galperín superó en 2015 los 138 millones de usuarios registrados en América Latina.
 
 También rompió la barrera de los 34 millones de productos vendidos y reportó transacciones por USD 1.842 millones. Hoy tiene un valor aproximado de 95.000 millones de dólares.
  </p>
@@ -170,7 +170,7 @@ Esta empresa unicornio fue vendida en el año 2020 a SoFi Technologies, por 1.10
   
   <h2>Conclusión</h2>
 <p>
-  Las empresas unicornio son aquellas compañías en plena etapa de crecimiento, cuya cotización ya ha superado los 1.000 millones de dólares. Además, no deben cotizar en la bolsa, pues una vez que lo hacen pierden su status de unicornios.
+  Las empresas unicornio son aquellas compañías en plena etapa de crecimiento, cuya cotización ya ha superado los 1.000 millones de dólares. Además, no deben cotizar en la bolsa, pues una vez que lo hacen pierden su status de unicornios.Se puede afirmar que todas las empresas unicornios tienen un objetivo en comun la solucion de un problema a traves del desarrollo tecnologico, generando un impacto a corto plazo gracias al mismo,un caso que evidencia esto es la empresa unicornio originaria en chile denominada "the not company" que a traves de la inteligencia artificial como principal herramienta en su modelo de negocio esta transformando la industria alimenticia, logrando acortar exponecialmente la investigacion y desarrollo de productos alimenticios.
 
 Actualmente, son las startups quienes dominan esta categoría empresarial. Las startups argentinas atraviesan su mejor momento, por lo que 11 compañías nacionales ya integran este selecto club. Cabe destacar el importante aporte de estas empresas en la creación de riqueza, empleo e innovación para nuestro país.
 </p>
