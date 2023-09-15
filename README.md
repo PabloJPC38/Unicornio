@@ -47,7 +47,6 @@ El término fue acuñado por primera vez en 2013 por Aileen Lee, la fundadora de
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Distribución de Empresas Unicornio</title>
 </head>
 <body>
     <h1>Distribución de Empresas Unicornio</h1>
