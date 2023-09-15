@@ -163,3 +163,23 @@ Esta empresa unicornio fue vendida en el año 2020 a SoFi Technologies, por 1.10
 Actualmente, son las startups quienes dominan esta categoría empresarial. Las startups argentinas atraviesan su mejor momento, por lo que 11 compañías nacionales ya integran este selecto club. Cabe destacar el importante aporte de estas empresas en la creación de riqueza, empleo e innovación para nuestro país.
 </p>
 </div>
+
+<div align="justify">
+  
+  <h2>Referencias Bibliográficas</h2>
+<p>
+  <ul>
+    <li> Espacio Empresa:
+  https://espacioempresa.com/noticias/empresas-unicornio-argentinas/
+       </li> 
+    
+  <li>
+      Eldestape: https://www.eldestapeweb.com/sociedad/-argentina/cuales-son-las-empresas-unicornio-de-argentina--202261223580?utm_medium=paid&utm_source=Google&utm_campaign=DSA_Dinamico6&gad=1&gclid=CjwKCAjw3oqoBhAjEiwA_UaLtsmleJeew73ZjHS45wRnpmbBvYfgfwnXXcs4Pmjie-Zuzd052vLT3hoCfYYQAvD_BwE
+    </li>    
+    <li>
+    BAE NEGOCIOS:
+  https://www.baenegocios.com/negocios/Empresas-unicornio-cuales-son-las-11-firmas-argentinas-que-revolucionan-el-mercado-internacional-20220126-0121.html
+          </li>
+  </ul>
+</p>
+</div>
