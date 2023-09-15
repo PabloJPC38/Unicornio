@@ -1,1 +1,2 @@
-# Unicornio
+# Empresas Unicornios
+La definición de “unicornio” dice que es una criatura mitológica representada por un caballo blanco con un cuerno en su frente. Pero en los últimos años, este término ganó repercusión en el mundo de los negocios, de la mano de las llamadas empresas unicornio. Esta reciente denominación se le otorga a una empresa nueva -en etapa de crecimiento- . que supera una determinada valuación. Casualmente, son las compañías que con mayor fuerza vienen irrumpiendo en el mercado.
